@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="assets/CRT_Robot.gif"
+  <img src="assets/crt-dark-mascot.gif"
        width="180"
        alt="My CRT mascot">
 </p>
