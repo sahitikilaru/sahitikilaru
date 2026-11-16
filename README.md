@@ -28,7 +28,7 @@
 
 <p align="center">
   <img
-    src="./profile-3d-contrib/profile-green-animate.svg"
+    src="./profile-3d-contrib/profile-night-green.svg"
     width="100%"
     alt="My 3D GitHub Contribution City"
   />
