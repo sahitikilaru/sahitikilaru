@@ -1,4 +1,4 @@
-<p align="right">
+<p align="center">
   <img src="assets/crt-dark-mascot.gif"
        width="180"
        alt="My CRT mascot">
