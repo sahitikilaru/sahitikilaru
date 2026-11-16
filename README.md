@@ -29,10 +29,13 @@
 
 <p align="center">
   <img
-    src="./profile-3d-contrib/profile-night-green.svg"
+    src="./profile-3d-contrib/profile-night-view.svg"
     width="100%"
     alt="My 3D GitHub Contribution City"
   />
+</p>
+<p align="center">
+  <i>Every building tells a story of code.</i>
 </p>
 
 <p align="center">
