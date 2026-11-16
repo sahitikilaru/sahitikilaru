@@ -39,6 +39,14 @@
 </p>
 
 <p align="center">
+  <img
+    src="./assets/projects.svg"
+    width="100%"
+    alt="My GitHub Projects"
+  />
+</p>
+
+<p align="center">
   <img src="koi/koi.gif" width="256" alt="My GitHub Koi">
 </p>
 
